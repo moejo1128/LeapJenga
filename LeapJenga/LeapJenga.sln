@@ -5,6 +5,8 @@ Project("{0963C0BC-2D2F-ADF3-865F-1BE336690512}") = "LeapJenga", "Assembly-CShar
 EndProject
 Project("{0963C0BC-2D2F-ADF3-865F-1BE336690512}") = "LeapJenga", "Assembly-CSharp.csproj", "{9F407132-99EE-8484-4F89-B8E1FEB990A3}"
 EndProject
+Project("{0963C0BC-2D2F-ADF3-865F-1BE336690512}") = "LeapJenga", "Assembly-CSharp-Editor.csproj", "{6FF07C06-92A8-F7CA-1975-FF42446E93F0}"
+EndProject
 Project("{0963C0BC-2D2F-ADF3-865F-1BE336690512}") = "LeapJenga", "Assembly-UnityScript-firstpass.unityproj", "{964E3444-0DB8-F1A1-FA17-7788572F6219}"
 EndProject
 Project("{0963C0BC-2D2F-ADF3-865F-1BE336690512}") = "LeapJenga", "Assembly-UnityScript.unityproj", "{612CBE43-FBA7-5821-1814-02C41EAD70A4}"
@@ -23,6 +25,10 @@ Global
 		{9F407132-99EE-8484-4F89-B8E1FEB990A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F407132-99EE-8484-4F89-B8E1FEB990A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F407132-99EE-8484-4F89-B8E1FEB990A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF07C06-92A8-F7CA-1975-FF42446E93F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF07C06-92A8-F7CA-1975-FF42446E93F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF07C06-92A8-F7CA-1975-FF42446E93F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF07C06-92A8-F7CA-1975-FF42446E93F0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{964E3444-0DB8-F1A1-FA17-7788572F6219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{964E3444-0DB8-F1A1-FA17-7788572F6219}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{964E3444-0DB8-F1A1-FA17-7788572F6219}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,7 +41,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-														GlobalSection(MonoDevelopProperties) = preSolution
+																GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
